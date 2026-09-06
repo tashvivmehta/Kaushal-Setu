@@ -1,0 +1,9 @@
+survey_id,company_name,sector,district,state,industrial_cluster,hiring_volume_next_12m,candidate_readiness_score,critical_missing_skills,urgent_trainer_training_needed,recommended_new_equipment,willing_to_offer_apprenticeship
+SURV001,MahaEV Powertrain Components,Automotive & EV,Pune,Maharashtra,Chakan MIDC,210,1.8,"BMS Diagnostics, High Voltage Safety Protocols, CAN Bus",Yes,"EV Battery Test Bench & High-voltage Isolation Tools",Yes
+SURV002,Sahyadri Robotics & Automation,Manufacturing,Pune,Maharashtra,Bhosari MIDC,120,2.3,"PLC Ladder Logic, Industrial Robot Teach Pendant, Pneumatics",Yes,"Collaborative Robot (Cobot) Trainer Station",Yes
+SURV003,Marathwada Auto Die-Cast,Manufacturing,Chhatrapati Sambhajinagar,Maharashtra,Waluj MIDC,90,2.6,"CNC G-Code, VMC Programming, Coordinate Measuring Machine (CMM)",Yes,"Vertical Machining Center (VMC) 3-Axis Simulator",Yes
+SURV004,Ajanta Life Sciences Formulation,Healthcare & Pharma,Chhatrapati Sambhajinagar,Maharashtra,Shendra DMIC,75,2.9,"HPLC Column Handling, Digital Batch Records, Cleanroom Protocol",Yes,"Benchtop HPLC Testing Rig",Yes
+SURV005,Vidarbha Express Cold Logistics,Logistics & Warehousing,Nagpur,Maharashtra,MIHAN Hub,110,2.1,"Reefer Temp Data Logging, RFID Warehouse Management Systems (WMS)",Yes,"WMS Scanner Lab & Cold Storage Simulator",Yes
+SURV006,Godavari Switchgear & Control,Electronics & Electrical,Nashik,Maharashtra,Ambad MIDC,80,2.7,"Industrial Control Panel Wiring, Busbar Bending, Relay Testing",Yes,"Modular PLC & Switchgear Training Panel",Yes
+SURV007,Panchganga Precision Castings,Manufacturing,Kolhapur,Maharashtra,Gokul Shirgaon MIDC,85,2.4,"Induction Furnace Safety, Spectrometer Metal Analysis, Shell Moulding",Yes,"Optical Emission Spectrometer Demo Unit",Yes
+SURV008,Konkan Tech Solutions,Information Technology,Thane,Maharashtra,Wagle Estate,140,2.5,"React.js, REST API Integration, Docker Basics, Git Workflow",Yes,"Modern Multi-OS Computer Lab with Git Cloud Access",Yes

@@ -1,0 +1,12 @@
+course_id,course_name,institution_name,district,state,sector,skills_taught,duration_months,annual_enrolled_students,placement_rate_pct,trainer_capacity_score,equipment_status,curriculum_last_revised_year
+CRS101,Mechanic Motor Vehicle (Traditional IC Engine),Govt ITI Aundh (Pune),Pune,Maharashtra,Automotive & EV,"Carburetor Cleaning, Petrol/Diesel Engine Overhaul, Drum Brake Servicing",24,180,42,2.6,Outdated,2015
+CRS102,Computer Operator & Programming Assistant (COPA),Govt ITI Girls Pune,Pune,Maharashtra,Information Technology,"Windows 7, MS Office 2007, Basic Typing, Visual Basic 6.0",12,120,31,2.8,Outdated,2016
+CRS103,Fitter & Machinist Trade,Govt ITI Aurangabad (Chh. Sambhajinagar),Chhatrapati Sambhajinagar,Maharashtra,Manufacturing,"Conventional Lathe, Hacksaw Cutting, Filing, Manual Shaper Machine",24,160,48,3.2,Outdated,2017
+CRS104,Quality Control & Metrology Assistant,Marathwada Skill Center,Chhatrapati Sambhajinagar,Maharashtra,Healthcare & Pharma,"Basic Vernier Caliper, Dial Gauges, Surface Plate Inspection",6,70,62,3.7,Moderate,2021
+CRS105,Warehouse Operations & Material Handling,Nagpur Multi-Modal Skill Hub,Nagpur,Maharashtra,Logistics & Warehousing,"Manual Inventory Registers, Pallet Trolley Operation, Stacking",6,110,44,2.9,Outdated,2016
+CRS106,Aviation Ground Staff Basics,MIHAN Aviation Training Institute,Nagpur,Maharashtra,Aviation & MRO,"Customer Check-in, Baggage Tagging, Passenger Announcement",6,60,70,4.0,Moderate,2022
+CRS107,Electrician Trade,Govt ITI Nashik,Nashik,Maharashtra,Electronics & Electrical,"House Wiring, Ceiling Fan Rewinding, Tube-light Choke Repair, Earth Pit",24,200,53,3.1,Moderate,2018
+CRS108,Fruit & Vegetable Processing Assistant,Nashik Agro Skill Academy,Nashik,Maharashtra,Food Processing,"Manual Jam/Jelly Making, Pickle Preservation, Sun Drying",6,80,38,2.7,Outdated,2015
+CRS109,Foundryman Trade,Govt ITI Kolhapur,Kolhapur,Maharashtra,Manufacturing,"Manual Pit Furnace, Wooden Pattern Making, Sand Mould Ramming",12,90,39,3.0,Outdated,2014
+CRS110,Desktop Publishing & Web Page Design,Thane Technical Training Center,Thane,Maharashtra,Information Technology,"PageMaker 7.0, CorelDraw 11, HTML 4 Static Pages",6,140,29,2.4,Outdated,2015
+CRS111,Hospital Front Desk & Ward Assistant,Thane District Healthcare Mission,Thane,Maharashtra,Healthcare,"Patient Registration, OPD Queue Management, Basic First Aid",6,95,74,3.9,Moderate,2022

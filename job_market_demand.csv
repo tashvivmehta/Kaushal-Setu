@@ -1,0 +1,13 @@
+job_id,job_title,sector,district,state,industrial_cluster,required_skills,proficiency_level,avg_monthly_salary_inr,open_vacancies,emerging_trend_score,employer_type
+JOB001,EV Battery & BMS Service Specialist,Automotive & EV,Pune,Maharashtra,Chakan-Talegaon Auto Belt,"BMS Diagnostics, High Voltage Safety Protocols, CAN Bus, Thermal Runaway Prevention",Intermediate,36000,180,9.8,Large Enterprise
+JOB002,Robotics & Automation Line Operator,Manufacturing,Pune,Maharashtra,Bhosari MIDC,"PLC Ladder Logic, Kuka/Fanuc Robot Teach Pendant, Pneumatics, Sensor Calibration",Intermediate,32000,140,9.2,Large Enterprise
+JOB003,Cloud Support Associate,Information Technology,Pune,Maharashtra,Hinjewadi Infotech Park,"AWS Basics, Linux Terminal, Docker, Python Scripting, Networking",Beginner,30000,210,8.7,Large Enterprise
+JOB004,CNC Vertical Machining Specialist,Manufacturing,Chhatrapati Sambhajinagar,Maharashtra,Waluj MIDC,"VMC Programming, G-Code/M-Code, 3D CAD/CAM, Surface Finish Inspection",Intermediate,28000,110,8.1,MSME
+JOB005,Pharmaceutical Quality Assurance Assistant,Healthcare & Pharma,Chhatrapati Sambhajinagar,Maharashtra,Shendra DMIC,"HPLC Operation, Good Manufacturing Practices (GMP), Cleanroom Safety, Documentation",Beginner,24000,85,8.4,Large Enterprise
+JOB006,Cold Chain & Supply Chain Associate,Logistics & Warehousing,Nagpur,Maharashtra,MIHAN Multi-modal Hub,"Reefer Container Monitoring, Barcode/RFID Tracking, ERP Entry, Temperature Logging",Beginner,22000,130,8.9,Large Enterprise
+JOB007,Aviation Ground Support Assistant,Aviation & MRO,Nagpur,Maharashtra,MIHAN SEZ,"Aircraft Marshalling, Ground Power Unit Operation, Airside Safety, Basic Hydraulics",Beginner,26000,75,8.6,Large Enterprise
+JOB008,Electrical Control Panel Wireman,Electronics & Electrical,Nashik,Maharashtra,Ambad MIDC,"Electrical Schematics, Switchgear Wiring, Relay Logic, Busbar Fabrication",Intermediate,25000,95,7.9,MSME
+JOB009,Food & Agro Processing Technician,Food Processing,Nashik,Maharashtra,Dindori Agro Cluster,"Grape/Tomato Processing Line, Packaging Automation, HACCP Standards, Cold Storage",Beginner,21000,70,7.5,MSME
+JOB10,Precision Foundry & Die-Casting Operator,Manufacturing,Kolhapur,Maharashtra,Shiroli & Gokul Shirgaon MIDC,"Induction Furnace Operation, Sand Moulding, Pattern Making, Spectrometer Testing",Intermediate,27000,90,7.8,MSME
+JOB011,Full Stack Web Developer,Information Technology,Thane,Maharashtra,Wagle Estate IT Hub,"React.js, Node.js, REST APIs, MongoDB, Git",Intermediate,35000,160,8.8,Startup
+JOB012,Biomedical Equipment Maintenance Assistant,Healthcare,Thane,Maharashtra,Thane-Belapur Health Belt,"ECG Calibration, Defibrillator Testing, Autoclave Maintenance, Medical Gas Safety",Beginner,25000,65,8.3,Hospital/Healthcare
