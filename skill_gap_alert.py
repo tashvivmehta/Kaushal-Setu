@@ -1,7 +1,7 @@
 """
 Feature: Skill Gap Alert
 Finds skills that local companies are desperately hiring for,
-but NO local college or ITI in that district is teaching!
+but NO local college or ITI in that district is teaching
 """
 
 import sys
