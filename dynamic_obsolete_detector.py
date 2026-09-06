@@ -1,6 +1,5 @@
 """
 Dynamic Obsolete Skill Detector
-NO HARDCODING! 
 This script mathematically detects outdated topics by cross-referencing:
 1. Job postings in the sector (Demand Frequency = 0)
 2. Institute placement rate (< 40%)
